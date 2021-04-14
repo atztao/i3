@@ -1,3 +1,3 @@
 # i3
-i3wm config
+Simple And Clean.
 ![Wall](./desktop.png)
